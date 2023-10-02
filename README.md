@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 My Name is London Richardson and I am a Student enrolled in the "Programmer Coach" Full-Stack Developer program.
+
+I am editing this file from GitKraken
 <!--
 **LondonRichardson/LondonRichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
